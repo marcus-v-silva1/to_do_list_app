@@ -35,6 +35,9 @@ Configuração do Projeto
 ```
 3. Abra o navegador e acesse http://localhost:4000.
 
+### Vídeo da aplicação funcionando
+https://drive.google.com/file/d/1sGL-4EnqSM9Va1tY6mpNLCuDy7HaY5Y3/view?usp=sharing
+
 ### Imagens
 ![image](https://github.com/user-attachments/assets/ce19eba0-a54a-407d-867e-6a4ac95e753e)
 ![image](https://github.com/user-attachments/assets/c50d5c0e-a4ae-4b84-818d-83a38474a3ea)
