@@ -9,7 +9,6 @@ Este é o frontend de uma aplicação de lista de tarefas (To do List) construí
 - Marcação de tarefas como concluídas.
 - Exclusão de tarefas.
 - Filtro de tarefas por termo de busca.
-- First, run the development server:
 
 ## Tecnologias Utilizadas
 - React - Biblioteca JavaScript para construir interfaces de usuário.
